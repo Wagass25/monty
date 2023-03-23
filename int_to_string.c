@@ -1,6 +1,6 @@
 /*
  * File: int_to_string.c
- * Auth: Henry Agalik and Seiyefa Abornyuiee
+ * Auth: Henry Agalik and Seiyefa Abornyuie
  */
 
 #include <stdlib.h>
