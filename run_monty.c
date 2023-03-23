@@ -1,6 +1,6 @@
 /*
  * File: run_monty.c
- * Auth: Henry Agalik and Seiyefa Abornyuiee
+ * Auth: Henry Agalik and Seiyefa Abornyuie
  *       
  */
 
