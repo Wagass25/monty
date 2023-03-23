@@ -1,6 +1,6 @@
 /*
  * File: stack.c
- * Auth: Henry and Aseye
+ * Auth: Henry Agalik and Seiyefa Abornyuie
  *       
  */
 
