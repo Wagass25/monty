@@ -1,7 +1,7 @@
 /*
  * File: run_monty.c
  * Auth: Henry Agalik and Seiyefa Abornyuie
- *       
+ *
  */
 
 #include "monty.h"
@@ -125,7 +125,7 @@ int run_monty(FILE *script_fd)
 	if (init_stack(&stack) == EXIT_FAILURE)
 		return (EXIT_FAILURE);
 
-	while (get_int(&line, &len, script_fd) != -1)
+	while (getline(&line, &len, script_fd) != -1)
 	{
 		line_number++;
 		op_toks = strtow(line, DELIMS);
