@@ -1,6 +1,6 @@
 /*
  * File: set_op_tok_error.c
- * Auth: Henry Agalik and Seiyefa Abornyuiee
+ * Auth: Henry Agalik and Seiyefa Abornyuie
  */
 
 #include "monty.h"
